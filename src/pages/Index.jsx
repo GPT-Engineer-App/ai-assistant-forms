@@ -53,9 +53,9 @@ const Index = () => {
         </div>
       </section>
 
-      <section id="pricing" className="mt-32">
+      <section id="pricing" className="mt-32 text-center">
         <h2 className="text-4xl font-bold mb-12">Simple, Transparent Pricing</h2>
-        {/* TODO: Add pricing details */}
+        {}
       </section>
 
       <section id="contact" className="mt-32 text-center">
